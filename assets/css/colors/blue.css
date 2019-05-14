@@ -12,67 +12,67 @@
 /* COLOR CONFIGURATION */
 
 .accordion-heading a {
-	color:#28a0ff;
+	color:#58a4da;
 }
 
 .accordion-heading a:hover {
-	color: #28a0ff;
+	color: #58a4da;
 }
 
 blockquote {
-  border-left: 6px solid #28a0ff;
+  border-left: 6px solid #58a4da;
 }
 
 .modus_color_transition:hover {
-	color           : #28a0ff;
+	color           : #58a4da;
 	text-decoration : none;
 }
 
 h5.title-small, h6.title-small {
-	background:#28a0ff; 
+	background:#58a4da; 
 }
 
 .grid figcaption {
-	background: #28a0ff;
+	background: #58a4da;
 }
 
 .whitezone a {
-	color:#28a0ff;
+	color:#58a4da;
 }
 
 .whitezone li_ {
-	color: #28a0ff;
+	color: #58a4da;
 }
 
 .aboutzone {
-	border-top: #28a0ff thick solid;
+	border-top: #58a4da thick solid;
 }
 
 .blog-date h6 {
-	color: #28a0ff;
+	color: #58a4da;
 }
 
 .blog-post a {
-	color: #28a0ff;	
+	color: #58a4da;	
 }
 
 .blog-post i {
-	color: #28a0ff;
+	color: #58a4da;
 }
 
 .popular-posts li em {
-	color:#28a0ff; 
+	color:#58a4da; 
 }
 
 .button-b a {
-	background-color:#28a0ff;
+	background-color:#58a4da;
 }
 
 .cbp-qtprogress {
-	background: #28a0ff;
+	background: #58a4da;
 }
 
 .bar {
-  background: #28a0ff !important;   
+  background: #58a4da !important;   
 }
 
